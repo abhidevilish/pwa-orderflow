@@ -2,7 +2,6 @@ const CACHE_NAME = 'orderflow-v1';
 const ASSETS_TO_CACHE = [
   './',                 // Caches the subpath root (/pwa-orderflow/)
   './index.html',
-  './style.css',
   './app.js',
   './manifest.json'
 ];
