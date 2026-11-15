@@ -1,8 +1,7 @@
 {
   "name": "Order Flow",
   "short_name": "orderFlow",
-  "start_url": "/index.html",
-  "scope" :"./",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
